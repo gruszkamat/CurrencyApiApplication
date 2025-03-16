@@ -17,7 +17,7 @@ This is a Spring Boot-based application that provides a simple API for currency 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-spring-boot-app.
+   git clone https://github.com/gruszkamat/CurrencyApiApplication.git
    
 2. You can configure DB data in application.properties file
     ```properties
